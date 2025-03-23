@@ -47,4 +47,5 @@ Leaderboard: Users can view the leaderboard to compare their points with others.
 
 
 **Contributing**
+
 Feel free to fork this repository and submit pull requests with improvements or bug fixes. Contributions are always welcome!
